@@ -253,4 +253,4 @@ async def at(ctx):
 
     response = random.choice(adventure_time_quotes)
     await ctx.send(response)
-bot.run('OTQ2Mjk4NTA2NzMyMjQ5MTI5.GMWPwv.jfpjpiyas09m5yg_Zdx0mlV9l7S4eN1eZJU3TE')
+bot.run('')
